@@ -2,8 +2,8 @@
 
 A series of interview-like questions were solved with the help of chatgpt. 
 
-### Question 1
+### Problem 1
 
-### Question 2
+### Problem 2
 
-### Question 3
+### Problem 3
