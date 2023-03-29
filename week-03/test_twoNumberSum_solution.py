@@ -22,8 +22,10 @@ def twoNumberSum(array, targetSum):
     
     for i, num in enumerate(array):
         complement = targetSum - num
+        
         if complement in num_to_index and num != complement:
             return [complement, num]
+        
         num_to_index[num] = i
     
     return []
