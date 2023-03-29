@@ -4,3 +4,6 @@ Projects developed in the Algorithms and Data Structures course taught by DCA at
 ### Week 02
 - [Dataquest course and code refactoring](./week-02/). 
 
+### Week 03
+- [Interview Questions - Basic Data Structures](). 
+
