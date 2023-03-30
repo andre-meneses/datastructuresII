@@ -24,27 +24,6 @@ def removeDuplicatesFromLinkedList(linkedList):
         
     return linkedList
 
-#ll = LinkedList()
-#ll.append(1)
-#ll.append(1)
-#ll.append(1)
-#ll.append(2)
-#ll.append(2)
-#ll.append(3)
-#ll.append(3)
-
-#llb = LinkedList()
-#llb.append(1)
-#llb.append(2)
-#llb.append(3)
-
-#llc = removeDuplicatesFromLinkedList(ll)
-
-#print(len(llb))
-#print(len(llc))
-
-
-
 @pytest.fixture(scope="session")
 def data():
     
