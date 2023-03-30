@@ -18,15 +18,15 @@ def twoNumberSum(array, targetSum):
     Interger pair which sum is equal to targetSum
     empty otherwise
     """
-    num_to_index = {}
+    numbers = {}
     
     for i, num in enumerate(array):
         complement = targetSum - num
         
-        if complement in num_to_index and num != complement:
+        if complement in numbers:
             return [complement, num]
         
-        num_to_index[num] = i
+        numbers[num] = 1
     
     return []
 
