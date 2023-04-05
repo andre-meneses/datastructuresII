@@ -2,8 +2,8 @@
 
 Another set of interview-like questions, now involving recursion. 
 
-[Jupyter Notebook](./Code_Interview_recursion.ipynb)
-[Loom Video](https://www.loom.com/share/e73095126bd74dce8ad61f9a6588a987)
+-[Jupyter Notebook](./Code_Interview_recursion.ipynb)
+-[Loom Video](https://www.loom.com/share/e73095126bd74dce8ad61f9a6588a987)
 
 ### Problem 1
 > Nth Fibonacci
