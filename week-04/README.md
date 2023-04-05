@@ -10,7 +10,8 @@ A classical fibonacci problem, I decided to use an iterative approach.
 ### Problem 2
 
 > If you open a keypad of your mobile phone, it will likely look like this:
-> "----- ----- -----
+>   ```
+> ----- ----- -----
 >  |     |     |     |
 >  |  1  |  2  |  3  |
 >  |     | abc | def |
@@ -27,7 +28,8 @@ A classical fibonacci problem, I decided to use an iterative approach.
 >        |  0  |
 >        |     |
 >         -----
->"
+>   ```
+>
 >Almost every digit is associated with some letters in the alphabet; this allows certain phone numbers to spell out actual words.
 >
 >For example, the phone number 8464747328 can be written as timisgreat;
