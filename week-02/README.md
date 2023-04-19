@@ -7,5 +7,5 @@ The following activities were completed:
 2. **Refactoring of the guided project 'Profitable App Profiles for the App Store and Google Play markets'.** 
 
     A jupyter notebook of the solution was provided to be refactored using object-orienteded programming concepts. Every step of the solution was encapsulated into methods of a class 'AppData', and the code was rendered more 'pythonic'. 
-    - [Solution notebook](./ProfitableAppProfiles.ipynb)
-    - [Refactored code](./Refactor.ipynb)
+    - :link: [Solution notebook](./ProfitableAppProfiles.ipynb)
+    - :link: [Refactored code](./Refactor.ipynb)
