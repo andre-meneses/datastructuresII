@@ -9,12 +9,12 @@ In this repository, you can find the code for each week's project, along with an
 - :book: Dataquest course 
 - :file_folder: Code refactoring 
 
-### Week 03
-- :file_folder: [Interview Questions - Basic Data Structures](./week-03/). 
+### [Week 03](./week-03/)
+- :file_folder: Interview Questions - Basic Data Structures 
 
-### Week 04
-- :file_folder: [Interview Questions - Recursion](./week-04/). 
+### [Week 04](./week-04/)
+- :file_folder: Interview Questions - Recursion 
 
-### Week 06
-- :book: [Dataquest course]()
-- :file_folder: [Interview Questions - Binary Search Trees]()
+### [Week 06](./week-06/)
+- :book: Dataquest course
+- :file_folder: Interview Questions - Binary Search Trees
