@@ -1,3 +1,5 @@
+## Week 06
+
 During the 6th week, we finished Dataquest courses related to time complexity and also tackled an interview-style question about BSTs.
 
 - :link: [Course certificate](./André-Eduardo-Meneses-do-Nascimento--Introduction-to-Algorithms.pdf)
