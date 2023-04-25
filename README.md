@@ -18,3 +18,6 @@ In this repository, you can find the code for each week's project, along with an
 ### [Week 06](./week-06/)
 - :book: Dataquest course
 - :file_folder: Interview Questions - Binary Search Trees
+
+### [Week 07](./week-07/)
+- :book: Graph Fundamentals
