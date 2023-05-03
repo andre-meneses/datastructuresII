@@ -21,3 +21,7 @@ In this repository, you can find the code for each week's project, along with an
 
 ### [Week 07](./week-07/)
 - :book: Graph Fundamentals
+
+### [Week 08](./week-08/)
+- :book: Graph Review
+

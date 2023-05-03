@@ -1,0 +1,5 @@
+## Week 08
+
+During the 8th week, we revised the network/graph theory seen in the previous week
+
+- :file_folder: [Network Elements](./exercise.ipynb)
