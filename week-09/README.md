@@ -1,5 +1,5 @@
 ## Week 08
 
-During the 9th week, we revised the network/graph theory seen in the previous week by solving some exercises. 
+During the 9th week, we dwelt into graph/network theory through the studying of concepts such as assertiviness. 
 
 - :file_folder: [Network Elements](./exercise.ipynb)
